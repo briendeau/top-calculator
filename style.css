@@ -42,4 +42,10 @@ body {
 
 button {
   background-color: rgb(63, 173, 228);
+  font-weight: 700;
+  font-size: 1em;
 }
+
+/* #equals {
+
+} */
